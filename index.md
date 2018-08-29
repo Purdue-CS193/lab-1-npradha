@@ -1,4 +1,8 @@
-# Netra Pradhan's GitHub Page
+# Netra Pradhan's first CS193 Lab
+### Why I love CS193
+- The TAs
+- The valuable knowledge
+- FUN!!!!
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
